@@ -7,7 +7,9 @@
 > 💭 OᗷᔕEᔕᔕEᗪ ᗯITᕼ ᗪᖇEᗩᗰIᑎG <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple">
+  <a href="https://github.com/rjarman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple">
+  </a>
 </div>
 <div align="center">
   <a href="https://github.com/rjarman">
