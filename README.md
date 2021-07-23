@@ -6,16 +6,16 @@
 > 📖 ᗷOOK ᒪOᐯEᖇ <br>
 > 💭 OᗷᔕEᔕᔕEᗪ ᗯITᕼ ᗪᖇEᗩᗰIᑎG <br>
 
-<div style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple">
 </div>
 <br>
-<div style="text-align: center;">
+<div align="center">
   <a href="https://github.com/rjarman">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjarman&hide=prs&count_private=true&show_icons=true&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api?username=rjarman&hide=prs&count_private=true&show_icons=true&theme=midnight-purple">
   </a>
   <a href="https://github.com/rjarman">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rjarman&layout=compact&theme=midnight-purple&custom_title=Programming%20times%20since%20Jul%203%202021">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rjarman&layout=compact&theme=midnight-purple&custom_title=Programming%20times%20since%20Jul%203%202021">
   </a>
 </div>
 
