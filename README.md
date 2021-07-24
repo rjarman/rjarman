@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/rjarman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification">
   </a>
 </div>
 <div align="center">
