@@ -52,7 +52,6 @@
 > - ❎ Created and Closed an issue [#1203][g-1] in [anuraghazra/github-readme-stats][g-r-1]
 
 ---
-<br>
 <h3 align="center">📱Contacts📱</h3>
 <br>
 <div align="center">
