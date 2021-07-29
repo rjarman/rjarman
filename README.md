@@ -8,12 +8,12 @@
 
 <div align="center">
   <a target="_blank" href="https://github.com/rjarman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
   </a>
 </div>
 <div align="center">
   <a target="_blank" href="https://github.com/rjarman">
-    <img src="https://github-readme-stats.vercel.app/api?username=rjarman&hide=prs&count_private=true&show_icons=true&theme=midnight-purple&custom_title=Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rjarman&hide=prs&count_private=true&show_icons=true&theme=midnight-purple&custom_title=Github Stats (public repos)" />
   </a>
   <a target="_blank" href="https://github.com/rjarman">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rjarman&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
