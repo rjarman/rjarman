@@ -47,6 +47,8 @@
 
 ### 🤖 Recent GitHub Activity
   
+> - 📑 Reply on [#1213][g-3] issue in [anuraghazra/github-readme-stats][g-r-3]
+> - 📑 Reply on [#1215][g-2] issue in [anuraghazra/github-readme-stats][g-r-2]
 > - ❎ Created and Closed an issue [#1203][g-1] in [anuraghazra/github-readme-stats][g-r-1]
 
 
@@ -80,6 +82,11 @@
 <!-- git activity -->
 [g-1]: https://github.com/anuraghazra/github-readme-stats/issues/1203
 [g-r-1]: https://github.com/anuraghazra/github-readme-stats
+[g-2]: https://github.com/anuraghazra/github-readme-stats/issues/1215
+[g-r-2]: https://github.com/anuraghazra/github-readme-stats
+[g-3]: https://github.com/anuraghazra/github-readme-stats/issues/1213
+[g-r-3]: https://github.com/anuraghazra/github-readme-stats
+
 
 [blog]: https://blog.heaplinker.com
 [website]: https://blog.heaplinker.com
