@@ -1,10 +1,4 @@
-# Hi! I'm Rafsun Jany Arman
-> 👷 𝓐 𝓓𝓘𝓨 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 <br>
-> 🧑‍💻 ᗪEᐯEᒪOᑭEᖇ <br>
-> ✍🏻 ᗷᒪOGGEᖇ <br>
-> ✈️ TᖇᗩᐯEᒪᒪEᖇ <br>
-> 📖 ᗷOOK ᒪOᐯEᖇ <br>
-> 💭 OᗷᔕEᔕᔕEᗪ ᗯITᕼ ᗪᖇEᗩᗰIᑎG <br>
+# Hi! I'm Rafsun Jany Arman --> [CV📝](https://github.com/rjarman/rafsun-info/blob/master/CV.pdf)
 
 <div align="center">
   <a target="_blank" href="https://github.com/rjarman">
