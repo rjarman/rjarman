@@ -10,7 +10,7 @@
 -->
 <div align="center">
   <a target="_blank" href="https://github.com/rjarman">
-    <img src="https://github-readme-stats-rjarman.vercel.app/api?username=rjarman&count_private=true&show_icons=true&theme=dracula&custom_title=Github%20Stats%20(public%20repos)&show=reviews,prs_merged,prs_merged_percentage" />
+    <img src="https://github-readme-stats-rjarman.vercel.app/api?username=rjarman&count_private=true&show_icons=true&theme=dracula&custom_title=Github%20Stats%20&show=reviews,prs_merged,prs_merged_percentage" />
   </a>
   <a target="_blank" href="https://github.com/rjarman">
     <img src="https://github-readme-stats-rjarman.vercel.app/api/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
