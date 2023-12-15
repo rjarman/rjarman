@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <a target="_blank" href="https://github.com/rjarman">
-    <img src="https://github-readme-stats.vercel.app/api?username=rjarman&hide=prs&count_private=true&show_icons=true&theme=midnight-purple&custom_title=Github Stats (public repos)" />
+    <img src="https://github-readme-stats-rjarman.vercel.app/api?username=rjarman&count_private=true&show_icons=true&theme=dracula&custom_title=Github%20Stats%20(public%20repos)&show=reviews,prs_merged,prs_merged_percentage" />
   </a>
   <a target="_blank" href="https://github.com/rjarman">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rjarman&layout=compact&theme=midnight-purple&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
