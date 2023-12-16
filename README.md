@@ -4,7 +4,7 @@
 <!--
 <div align="center">
   <a target="_blank" href="https://github.com/rjarman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
+    <img src="https://stats.rafsunjanyarman.com/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
   </a>
 </div>
 -->
