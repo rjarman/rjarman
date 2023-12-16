@@ -3,16 +3,16 @@
 > Experienced and adaptable Full Stack Software Engineer with a fervor for crafting scalable and intelligent applications. Proficiently skilled in Java, Angular, and Machine Learning, adeptly designing resilient backend solutions, constructing dynamic user interfaces, and formulating machine learning models. Capable of steering cross-functional teams and delivering top-notch software solutions. Proactively keeps abreast of cutting-edge industry trends.
 <!--
 <div align="center">
-  <a target="_blank" href="https://github.com/rjarman">
+  <a target="_blank" href="https://rafsunjanyarman.com">
     <img src="https://stats.rafsunjanyarman.com/api/top-langs/?username=rjarman&layout=compact&langs_count=15&theme=midnight-purple&exclude_repo=feature-extraction-classification&custom_title=Most Used Languages (public repos)">
   </a>
 </div>
 -->
 <div align="center">
-  <a target="_blank" href="https://github.com/rjarman">
+  <a target="_blank" href="https://rafsunjanyarman.com">
     <img src="https://stats.rafsunjanyarman.com/api/v1?username=rjarman&count_private=true&show_icons=true&theme=dracula&custom_title=Github%20Stats%20&show=reviews,prs_merged,prs_merged_percentage" />
   </a>
-  <a target="_blank" href="https://github.com/rjarman">
+  <a target="_blank" href="https://rafsunjanyarman.com">
     <img src="https://stats.rafsunjanyarman.com/api/v1/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
   </a>
 </div>
