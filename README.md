@@ -1,4 +1,5 @@
-# Hi! I'm Rafsun Jany Arman --> [CV📝](https://github.com/rjarman/rafsun-info/blob/master/rafsun-jany-arman-cv.pdf)
+# Hi! I'm Rafsun Jany Arman 
+<!-- --> [CV📝](https://github.com/rjarman/rafsun-info/blob/master/rafsun-jany-arman-cv.pdf)-->
 
 > Experienced and adaptable Full Stack Software Engineer with a fervor for crafting scalable and intelligent applications. Proficiently skilled in Java, Angular, and Machine Learning, adeptly designing resilient backend solutions, constructing dynamic user interfaces, and formulating machine learning models. Capable of steering cross-functional teams and delivering top-notch software solutions. Proactively keeps abreast of cutting-edge industry trends.
 <!--
