@@ -40,6 +40,9 @@ With a strong focus on delivering impactful software, I bring a balance of techn
 <h3 align="center">📱Contacts📱</h3>
 <br>
 <div align="center">
+  <a target="_blank" href="https://www.rafsunjanyarman.com"> 
+    <img alt="https://www.rafsunjanyarman.com" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
   <a target="_blank" href="https://linkedin.com/in/rafsun-jany-arman">
     <img alt="rafsun | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
