@@ -91,8 +91,8 @@ With a strong focus on delivering impactful software, I bring a balance of techn
 [g-r-3]: https://github.com/anuraghazra/github-readme-stats
 
 
-[blog]: https://blog.heaplinker.com
-[website]: https://blog.heaplinker.com
+[blog]: https://blog.rafsunjanyarman.com
+[website]: https://blog.rafsunjanyarman.com
 
 [youtube]: https://www.youtube.com/channel/UCqc2HXrZQjuYUxKHhNFU8WQ
 
