@@ -43,7 +43,7 @@ With a strong focus on delivering impactful software, I bring a balance of techn
   <a target="_blank" href="https://linkedin.com/in/rafsun-jany-arman">
     <img alt="rafsun | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a target="_blank" href="https://blog.heaplinker.com"> 
+  <a target="_blank" href="https://blog.rafsunjanyarman.com"> 
     <img alt="https://blog.heaplinker.com" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.facebook.com/rafsunjany.arman.1"> 
@@ -52,49 +52,19 @@ With a strong focus on delivering impactful software, I bring a balance of techn
   <a target="_blank" href="https://t.me/rafsun_jany_arman"> 
     <img alt="rafsun | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a target="_blank" href="https://discordapp.com/users/794242518144385065"> 
+<!--   <a target="_blank" href="https://discordapp.com/users/794242518144385065"> 
     <img alt="rafsun | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a> -->
   <a target="_blank" href="https://www.youtube.com/channel/UCqc2HXrZQjuYUxKHhNFU8WQ"> 
     <img alt="rafsun | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a target="_blank" href="https://twitter.com/_rjarman"> 
     <img alt="rafsun | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a target="_blank" href="https://instagram.com/_rjarman"> 
+<!--   <a target="_blank" href="https://instagram.com/_rjarman"> 
     <img alt="rafsun | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
 </div>
-
-
-
-
-<!-- variables -->
-
-
-<!-- top blogs -->
-[b-1]: https://blog.heaplinker.com/How-to-make-a-custom-confusion-matrix-on-matplotlib-with-heatmap-and-annotation-2021070218326405004/
-
-<!-- top videos -->
-[v-1]: https://www.youtube.com/watch?v=PRGWfR-jds8
-[v-2]: https://www.youtube.com/watch?v=IBiIrE5bug4
-[v-3]: https://www.youtube.com/watch?v=lEZIw179Z9g
-[v-4]: https://www.youtube.com/watch?v=Bjey5LLKLys
-[v-5]: https://www.youtube.com/watch?v=CMx_3bCBOGY
-
-<!-- git activity -->
-[g-1]: https://github.com/anuraghazra/github-readme-stats/issues/1203
-[g-r-1]: https://github.com/anuraghazra/github-readme-stats
-[g-2]: https://github.com/anuraghazra/github-readme-stats/issues/1215
-[g-r-2]: https://github.com/anuraghazra/github-readme-stats
-[g-3]: https://github.com/anuraghazra/github-readme-stats/issues/1213
-[g-r-3]: https://github.com/anuraghazra/github-readme-stats
-
-
-[blog]: https://blog.rafsunjanyarman.com
-[website]: https://blog.rafsunjanyarman.com
-
-[youtube]: https://www.youtube.com/channel/UCqc2HXrZQjuYUxKHhNFU8WQ
 
 [linkedin]: https://linkedin.com/in/rafsun-jany-arman
 [facebook]: https://www.facebook.com/rafsunjany.arman.1
