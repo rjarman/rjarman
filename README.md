@@ -1,7 +1,5 @@
 # Hi! I'm Rafsun Jany Arman 
 
-[//]: # (--> [CV📝]&#40;https://github.com/rjarman/rafsun-info/blob/master/rafsun-jany-arman-cv.pdf&#41;)
-
 As a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿, I specialize in building scalable, user-focused solutions across diverse industries. My expertise lies in transforming complex requirements into innovative systems that deliver measurable value.
 
 ⚡️ 𝗞𝗲𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀
@@ -41,7 +39,7 @@ With a strong focus on delivering impactful software, I bring a balance of techn
 <br>
 <div align="center">
   <a target="_blank" href="https://www.rafsunjanyarman.com"> 
-    <img alt="https://www.rafsunjanyarman.com" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+    <img alt="https://www.rafsunjanyarman.com" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a target="_blank" href="https://linkedin.com/in/rafsun-jany-arman">
     <img alt="rafsun | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
