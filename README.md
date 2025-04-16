@@ -2,7 +2,24 @@
 
 [//]: # (--> [CV📝]&#40;https://github.com/rjarman/rafsun-info/blob/master/rafsun-jany-arman-cv.pdf&#41;)
 
-> Experienced and adaptable Full Stack Software Engineer with a fervor for crafting scalable and intelligent applications. Proficiently skilled in Java, Angular, and Machine Learning, adeptly designing resilient backend solutions, constructing dynamic user interfaces, and formulating machine learning models. Capable of steering cross-functional teams and delivering top-notch software solutions. Proactively keeps abreast of cutting-edge industry trends.
+As a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿, I specialize in building scalable, user-focused solutions across diverse industries. My expertise lies in transforming complex requirements into innovative systems that deliver measurable value.
+
+⚡️ 𝗞𝗲𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀
+𝗦𝗽𝗼𝗿𝘁𝘀 𝗘𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺: Built a mobile app for the Ski Federation integrating ticketing, live streaming, and event updates, enhancing user engagement for international audiences.
+𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗠𝗮𝗿𝗶𝘁𝗶𝗺𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: Developed an intuitive dashboard to consolidate and filter operational data, driving efficiency for a global marine services provider.
+𝗦𝗺𝗮𝗿𝘁 𝗪𝗮𝘁𝗲𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Designed real-time monitoring and alert systems for hydrants, enabling optimized resource use and anomaly detection.
+𝗜𝗼𝗧 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Simplified device connectivity and automated workflows for hardware companies, improving operational efficiency.
+𝗨𝘁𝗶𝗹𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Created platforms for analyzing and visualizing utility data, providing actionable insights for better consumption management.
+
+⚡️ 𝗖𝗼𝗿𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀
+𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Expertise in building robust systems using Java, Python, and frameworks like Spring Boot.
+𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Skilled in creating dynamic, user-friendly interfaces with Angular, React, and Next.js.
+𝗜𝗼𝗧 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Proficient in developing end-to-end IoT solutions, including data processing, visualization, and real-time notifications.
+𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Experience designing dashboards and tools for actionable insights using modern visualization techniques.
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽: Adept at driving cross-functional collaboration to deliver high-quality solutions.
+𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Hands-on experience with cloud services, CI/CD pipelines, and scalable architecture.
+
+With a strong focus on delivering impactful software, I bring a balance of technical expertise and strategic problem-solving to every project. Let’s connect to explore opportunities to collaborate!
 <!--
 <div align="center">
   <a target="_blank" href="https://rafsunjanyarman.com">
@@ -18,37 +35,6 @@
     <img src="https://stats.rafsunjanyarman.com/api/v1/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
   </a>
 </div>
-
----
-
-### 📝 Latest Blog Posts
-> - [How to make a custom confusion matrix on matplotlib with heatmap and annotation][b-1]
-
-
-➕ [more][blog]
-
-
----
-
-### 📽️ Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-> - [Bus-Mama][v-1]
-> - [GoPro live underwater experiment with a customized antenna][v-2]
-> - [Cansat Competition 2019][v-3]
-> - [Project SSD][v-4]
-> - [Project SSD(Submersible Surveillance Drone)][v-5]
-<!-- YOUTUBE:END -->
-
-➕ [more][youtube]
-
----
-
-### 🤖 Recent GitHub Activity
-  
-> - 📑 Reply on [#1213][g-3] issue in [anuraghazra/github-readme-stats][g-r-3]
-> - 📑 Reply on [#1215][g-2] issue in [anuraghazra/github-readme-stats][g-r-2]
-> - ❎ Created and Closed an issue [#1203][g-1] in [anuraghazra/github-readme-stats][g-r-1]
 
 ---
 <h3 align="center">📱Contacts📱</h3>
