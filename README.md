@@ -1,23 +1,36 @@
 # Hi! I'm Rafsun Jany Arman 
 
-As a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿, I specialize in building scalable, user-focused solutions across diverse industries. My expertise lies in transforming complex requirements into innovative systems that deliver measurable value.
+As a **Senior Full Stack Software Engineer**, I architect scalable, user-centric solutions that bridge the gap between complex data and intuitive human interaction. I specialize in Generative AI ecosystems, RAG-driven intelligence, and high-concurrency systems.
 
-⚡️ 𝗞𝗲𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀
-𝗦𝗽𝗼𝗿𝘁𝘀 𝗘𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺: Built a mobile app for the Ski Federation integrating ticketing, live streaming, and event updates, enhancing user engagement for international audiences.
-𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗠𝗮𝗿𝗶𝘁𝗶𝗺𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: Developed an intuitive dashboard to consolidate and filter operational data, driving efficiency for a global marine services provider.
-𝗦𝗺𝗮𝗿𝘁 𝗪𝗮𝘁𝗲𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Designed real-time monitoring and alert systems for hydrants, enabling optimized resource use and anomaly detection.
-𝗜𝗼𝗧 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Simplified device connectivity and automated workflows for hardware companies, improving operational efficiency.
-𝗨𝘁𝗶𝗹𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Created platforms for analyzing and visualizing utility data, providing actionable insights for better consumption management.
+**⚡️ Key Contributions**
 
-⚡️ 𝗖𝗼𝗿𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Expertise in building robust systems using Java, Python, and frameworks like Spring Boot.
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Skilled in creating dynamic, user-friendly interfaces with Angular, React, and Next.js.
-𝗜𝗼𝗧 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Proficient in developing end-to-end IoT solutions, including data processing, visualization, and real-time notifications.
-𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Experience designing dashboards and tools for actionable insights using modern visualization techniques.
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽: Adept at driving cross-functional collaboration to deliver high-quality solutions.
-𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Hands-on experience with cloud services, CI/CD pipelines, and scalable architecture.
+- **Enterprise Generative AI Ecosystem:** Architected a full-stack, on-premise AI platform (Web, Mobile, Backend) featuring RAG-driven document intelligence, real-time voice-to-voice chat, and multi-agent systems for web-search and image generation.
 
-With a strong focus on delivering impactful software, I bring a balance of technical expertise and strategic problem-solving to every project. Let’s connect to explore opportunities to collaborate!
+- **Collaborative AI & Knowledge Management:** Engineered a secure group-conversation engine with AI assistant integration, dynamic link-sharing, and a robust document processing pipeline using vectorization to enable context-aware LLM responses.
+
+- **Sports Engagement Platform:** Led the development of an all-in-one mobile app for the Ski World Cup, integrating ticketing, live streaming, and real-time athlete telemetry to enhance fan engagement for international audiences.
+
+- **Maritime & Industrial IoT Solutions:** Developed high-performance data visualization dashboards and real-time monitoring systems for global marine services and Swiss water management, driving operational efficiency through predictive alerts.
+
+- **Smart Metering & IoT Integration:** Designed end-to-end solutions for hardware companies to automate IoT device communication, data collection, and utility consumption analysis.
+
+**⚡️ Core Competencies**
+
+- **AI & LLM Orchestration:** RAG (Retrieval-Augmented Generation), Vector Databases (Qdrant), Multi-Agent systems, STT/TTS, and Image Gen models.
+
+- **System Architecture:** Designing scalable, three-tier architectures (Web, Mobile, Backend) and secure on-premise deployments.
+
+- **Real-Time Communication:** Low-latency voice chat, Web Search integration (Perplexica/Searxng), and real-time data synchronization.
+
+- **Backend Development:** Building robust, high-concurrency systems using Java, Python, and Spring Boot.
+
+- **Frontend Development:** Creating dynamic, user-friendly interfaces with React.
+
+- **IoT & Data Visualization:** End-to-end IoT pipelines, real-time notifications, and actionable data dashboards.
+
+- **Project Leadership:** Driving cross-functional collaboration and CI/CD excellence to deliver high-impact software.
+
+With a focus on technical excellence and strategic problem-solving, I build software that delivers measurable value. Let’s connect to explore how we can innovate together!
 <!--
 <div align="center">
   <a target="_blank" href="https://rafsunjanyarman.com">
