@@ -42,8 +42,10 @@ With a focus on technical excellence and strategic problem-solving, I build soft
   <a target="_blank" href="https://rafsunjanyarman.com">
     <img src="https://stats.rafsunjanyarman.com/api/v1?username=rjarman&count_private=true&show_icons=true&theme=dracula&custom_title=Github%20Stats%20(last%201%20year)&show=reviews,prs_merged,prs_merged_percentage" />
   </a>
+</div>
+<div align="center">
   <a target="_blank" href="https://rafsunjanyarman.com">
-    <img src="https://stats.rafsunjanyarman.com/api/v1/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)">
+    <img src="https://stats.rafsunjanyarman.com/api/v1/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)&langs_count=4">
   </a>
 </div>
 
