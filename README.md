@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/2faa9804-f3c1-4a48-bde3-f8c438916c9a.svg)](https://wakatime.com/@2faa9804-f3c1-4a48-bde3-f8c438916c9a)
 # Hi there! I'm Rafsun Jany Arman 👋
 
 <div align="center">
