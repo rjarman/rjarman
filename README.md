@@ -61,6 +61,7 @@ I architect scalable, user-centric solutions that bridge the gap between complex
 <a href="https://medium.com/@rafsunjanyarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafsunjanyarman" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/rafsun/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafsun" height="30" width="40" /></a>
 <a href="mailto:armanrafsunjany@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+<a href="https://www.researchgate.net/profile/Rafsun-Jany-Arman" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="25" /></a>
 </p>
 
 ---
