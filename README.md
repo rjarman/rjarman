@@ -48,7 +48,7 @@ I architect scalable, user-centric solutions that bridge the gap between complex
 </div>
 <div align="center">
   <a target="_blank" href="https://rafsunjanyarman.com">
-    <img src="https://stats.rafsunjanyarman.com/api/v1/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)&langs_count=4">
+    <img src="https://stats.rafsunjanyarman.com/api/v1/wakatime?username=rjarman&layout=compact&theme=dracula&custom_title=Programming%20Times%20(since%20Jul%203%202021)&langs_count=4&range=all_time">
   </a>
 </div>
 
