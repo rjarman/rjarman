@@ -2,40 +2,55 @@
 # Hi there! I'm Rafsun Jany Arman 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Software+Engineer;Generative+AI+%26+LLM+Orchestrator;Architecting+Scalable+IoT+Ecosystems;Building+High-Concurrency+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Engineer+%C2%B7+Production+Agentic+AI;LangGraph+%2B+RAG+%2B+MCP+%2B+on-prem+GenAI;Multi-Agent+Systems+at+Scale;3yrs+Shipping+LLM+Systems+in+Production" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I architect scalable, user-centric solutions that bridge the gap between complex data and intuitive human interaction. My expertise lies in building **Generative AI ecosystems**, **RAG-driven intelligence**, and **high-concurrency systems**.
+I ship **production agentic AI systems** — on-prem stacks, multi-agent orchestration, RAG pipelines, MCP servers, with real latency and observability budgets.
 
-- 🔭 I’m currently working as a **Senior Software Engineer** at **SELISE Group**, architecting on-premise Enterprise GenAI Ecosystems.
-- 🧠 I specialize in **RAG pipelines**, **Multi-Agent systems**, and **Real-Time Communication** (WebSockets, SignalR).
-- ⚡ **Fun Fact:** I've built everything from a **Ski World Cup App** for 30k+ users to **Maritime Data Dashboards** for global fleets.
-- 🌍 Check out my portfolio: [rafsunjanyarman.com](https://rafsunjanyarman.com).
+- 🔭 Currently **Senior Software Engineer at SELISE Group**, architecting on-premise Enterprise GenAI ecosystems.
+- 🧠 I specialize in **LangGraph**, **RAG** (Qdrant + LangChain), **multi-agent systems**, and **MCP** for tool-using agents.
+- 🎯 Three years shipping LLM systems where hosted APIs weren't an option. ~15% inference-latency wins. Sub-3s streaming for 30k+ users. Multi-million-msg/day IoT middleware.
+- 📚 Two published papers in computer vision (saliency-based fish classification at 100% accuracy; Parkinson's classification at 96.67%).
+- ✍️ Writing the engineering posts I wish existed — debunking pieces, architecture teardowns, field notes from production.
+- 🌍 Portfolio: [rafsunjanyarman.com](https://rafsunjanyarman.com)
+- 💼 **Open to senior / staff Agentic AI roles · Remote-friendly · EU / US / CH time zones.**
 
 ---
 
-### 🛠 Technologies & Tools
+### 🛠 Stack at a Glance
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo"  />
 </p>
 
-- **AI/LLM:** LangChain, LangGraph, Qdrant (Vector DB), Multi-Agent Systems, STT/TTS.
-- **IoT:** ThingsBoard, MQTT, RabbitMQ.
+- **Agentic AI:** LangGraph, LangChain, CrewAI, MCP (Model Context Protocol), Multi-Agent Systems
+- **RAG & Vector:** Qdrant, hybrid search, chunking strategies, retrieval eval
+- **Real-time & Async:** FastAPI, WebSockets, SignalR, Redis-based distributed cancellation
+- **Voice AI:** LiveKit, Whisper, STT/TTS pipelines
+- **IoT:** Spring Boot, ThingsBoard, MQTT, RabbitMQ, TimescaleDB
+- **Mobile / Web:** Flutter (BLoC, Riverpod), React (Zustand)
+
+---
+
+### ✍️ Recent Writing
+
+- **[Is CrewAI Really Async? Debunking the Asynchronous Myth & When Streaming Makes Sense](https://medium.com/gitconnected/is-crewai-really-async-debunking-the-asynchronous-myth-when-streaming-makes-sense-10cef0bac1ec)** — gitconnected
+- **[Fortress of Flutter: Mastering Testing with Mocktail, Bloc Test, and Firebase](https://medium.com/gitconnected/fortress-of-flutter-mastering-testing-with-mocktail-bloc-test-and-firebase-dca06cc90f1d)** — gitconnected
+- **[Automate Flutter Unit Testing & Coverage with SonarQube](https://medium.com/@rafsunjanyarman/automated-flutter-unit-testing-coverage-report-generation-using-sonarqube-a-comprehensive-guide-31c8abacb80c)** — Medium
 
 ---
 
@@ -57,20 +72,18 @@ I architect scalable, user-centric solutions that bridge the gap between complex
 ### 🤝 Connect with Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/rafsun-jany-arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafsun-jany-arman" height="30" width="40" /></a>
-  
-<a href="https://medium.com/@rafsunjanyarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafsunjanyarman" height="30" width="40" /></a>
-
-<a href="https://www.kaggle.com/rafsun/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafsun" height="30" width="40" /></a>
-
-<a href="mailto:armanrafsunjany@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-
-<a href="https://www.researchgate.net/profile/Rafsun-Jany-Arman" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height="25" /></a>
+<a href="https://linkedin.com/in/rafsun-jany-arman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://medium.com/@rafsunjanyarman" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="https://x.com/_rjarman" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>&nbsp;
+<a href="https://app.daily.dev/rjarman" target="_blank"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily.dev" /></a>&nbsp;
+<a href="https://www.kaggle.com/rafsun/code" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Rafsun-Jany-Arman" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" /></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=LConMPUAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
+<a href="mailto:armanrafsunjany@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building software that delivers measurable value, one commit at a time."</i>
+  <i>"Three years shipping production agentic AI. Now writing the war stories the tutorials don't cover."</i>
 </p>
