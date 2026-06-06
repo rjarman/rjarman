@@ -48,6 +48,7 @@ I ship **production agentic AI systems** — on-prem stacks, multi-agent orchest
 
 ### ✍️ Recent Writing
 
+- **[We Migrated from SSE to WebSockets. Cancellation Wasn't the Real Reason.](https://medium.com/gitconnected/we-migrated-from-sse-to-websockets-cancellation-wasnt-the-real-reason-1d67fbd6c65a)** in Level Up Coding
 - **[Is CrewAI Really Async? Debunking the Asynchronous Myth & When Streaming Makes Sense](https://medium.com/gitconnected/is-crewai-really-async-debunking-the-asynchronous-myth-when-streaming-makes-sense-10cef0bac1ec)** — gitconnected
 - **[Fortress of Flutter: Mastering Testing with Mocktail, Bloc Test, and Firebase](https://medium.com/gitconnected/fortress-of-flutter-mastering-testing-with-mocktail-bloc-test-and-firebase-dca06cc90f1d)** — gitconnected
 - **[Automate Flutter Unit Testing & Coverage with SonarQube](https://medium.com/@rafsunjanyarman/automated-flutter-unit-testing-coverage-report-generation-using-sonarqube-a-comprehensive-guide-31c8abacb80c)** — Medium
