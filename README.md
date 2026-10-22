@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Engineer+%C2%B7+Production+Agentic+AI;LangGraph+%2B+RAG+%2B+MCP+%2B+on-prem+GenAI;Multi-Agent+Systems+at+Scale;3yrs+Shipping+LLM+Systems+in+Production" alt="Typing SVG" />
 </div>
 
+
+<div align="center">
+  <a target="_blank" href="https://spotify-github-profile.kittinanx.com/api/view?uid=8sdqyd3rbe2x3as9zm4uspilu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8sdqyd3rbe2x3as9zm4uspilu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</div>
+
 ---
 
 ### 🚀 About Me
@@ -88,9 +95,3 @@ I ship **production agentic AI systems** — on-prem stacks, multi-agent orchest
 <p align="center">
   <i>"Three years shipping production agentic AI. Now writing the war stories the tutorials don't cover."</i>
 </p>
-
-<div align="center">
-  <a target="_blank" href="https://spotify-github-profile.kittinanx.com/api/view?uid=8sdqyd3rbe2x3as9zm4uspilu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8sdqyd3rbe2x3as9zm4uspilu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</div>
