@@ -88,3 +88,9 @@ I ship **production agentic AI systems** — on-prem stacks, multi-agent orchest
 <p align="center">
   <i>"Three years shipping production agentic AI. Now writing the war stories the tutorials don't cover."</i>
 </p>
+
+<div align="center">
+  <a target="_blank" href="https://spotify-github-profile.kittinanx.com/api/view?uid=8sdqyd3rbe2x3as9zm4uspilu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8sdqyd3rbe2x3as9zm4uspilu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</div>
