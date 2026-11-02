@@ -29,6 +29,12 @@ I ship **production agentic AI systems** — on-prem stacks, multi-agent orchest
 
 ---
 
+### 🏅 Certifications
+
+<a href="https://www.credly.com/badges/3f4053e9-9120-4226-bf51-2125ff973d68/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" width="120" alt="Claude Certified Developer, Foundations" /></a>
+
+---
+
 ### 🛠 Stack at a Glance
 
 <p align="left">
