@@ -19,9 +19,10 @@
 I ship **production agentic AI systems** — on-prem stacks, multi-agent orchestration, RAG pipelines, MCP servers, with real latency and observability budgets.
 
 - 🔭 Currently **Senior Software Engineer at SELISE Group**, architecting on-premise Enterprise GenAI ecosystems.
+- 🏅 **[Claude Certified Developer, Foundations](https://www.credly.com/badges/3f4053e9-9120-4226-bf51-2125ff973d68/public_url)** (Anthropic).
 - 🧠 I specialize in **LangGraph**, **RAG** (Qdrant + LangChain), **multi-agent systems**, and **MCP** for tool-using agents.
 - 🎯 Three years shipping LLM systems where hosted APIs weren't an option. ~15% inference-latency wins. Sub-3s streaming for 30k+ users. Multi-million-msg/day IoT middleware.
-- 📚 Two published papers in computer vision (saliency-based fish classification at 100% accuracy; Parkinson's classification at 96.67%).
+- 📚 Published research in computer vision (saliency-based fish classification). Now working on participant-level evaluation and on-device deployment for Parkinson's detection from handwriting.
 - ✍️ Writing the engineering posts I wish existed — debunking pieces, architecture teardowns, field notes from production.
 - 🌍 Portfolio: [rafsunjanyarman.com](https://rafsunjanyarman.com)
 - 💼 **Open to senior / staff Agentic AI roles · Remote-friendly · EU / US / CH time zones.**
